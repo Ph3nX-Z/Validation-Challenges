@@ -5,7 +5,7 @@ Challenges de validation de niveau.
 
 Challenge 1:
 
-![]('challenge1/challenge 1.PNG')
+![]('challenge 1/challenge 1.PNG')
 
 Challenge 2:
 
