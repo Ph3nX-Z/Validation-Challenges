@@ -5,15 +5,15 @@ Challenges de validation de niveau.
 
 Challenge 1:
 
-![](challenge 1.PNG)
+![](challenge1.PNG)
 
 Challenge 2:
 
-![]('challenge 2.PNG')
+![](challenge2.PNG)
 
 Challenge 3:
 
-![]('challenge 3.PNG')
+![](challenge3.PNG)
 ## Installation
 
 Windows:
