@@ -1,0 +1,14 @@
+Deux extraterrestres tentent de communiquer de facon codée.
+Vous etes agent a la zone 51 et interceptez leurs communications.
+Vous devrez cependant filtrer ces communications pour en retirer des informations.
+
+Consignes :
+-En entrée : le message intercepté
+-En sortie : le message filtré avec une lettre sur deux en majuscule et les autres en minuscules (ex: AzErTy)
+
+Consignes techniques :
+-il faudra enlever tout les points du messages
+-Quand le programme passe sur une etoile, tout les caracteres jusqu'a la prochaine etoile sont supprimés.
+
+Exemple Photo
+

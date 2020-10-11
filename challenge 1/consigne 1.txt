@@ -1,0 +1,11 @@
+Vous devrez demander l'age et le nom d'une personne:
+
+en entrées :
+-age
+-nom
+
+Consigne:
+-tant que age n'es pas egal a 18 et le nom pas egal a Jean ne pas arreter de demander
+
+Le programme doit retourner: Bonjour Jean, vous avez 18 ans.
+Ainsi que le nombre de tentatives (sans compter les bonnes tentatives) et le nom et l'age de ces tentatives.

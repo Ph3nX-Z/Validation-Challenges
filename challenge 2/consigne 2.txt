@@ -1,0 +1,12 @@
+Consignes :
+
+Une personne veux partir en voyage avec ses amis, mais ne sait pas combien mettre d'essence dans sa voiture. Vous devrez l'aider a calculer l'essence a mettre.
+
+Consignes techniques:
+
+-on recupere tout d'abord de nombre de personnes qui montent dans la voiture
+-ensuite on recupere le poids de ces personnes
+
+Pour une personne de plus de 70 kg (strictement) on met 10L d'essence dans la voiture, et pour une personne de 70kg ou moins on met 5L.
+
+exemple : <image>
