@@ -38,6 +38,9 @@ Sortie:
 1 0 0 1
 1 0 1 0
 
+# exemple de 1 1 1 1 : le chemin que pourra prendre la personne sans perdre toute la vie:
+# x=1 y=0, x=1 y=1, x=1 y=2, x=1 y=3
+
 Contraintes:
 
 - Pas le droit a des methodes qui depassent 500mo de memoire utilisée (toutes les possibilitées etc...)
