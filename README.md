@@ -1,4 +1,4 @@
-## Challenges
+# Challenges
 > Challenges de validation
 
 Challenges de validation de niveau.
@@ -26,6 +26,13 @@ Linux:
 ```sh
 Download files
 ```
+## Levels
+|Rooms      |Difficulty|
+|-----------|----------|
+|Challenge 1|Easy-     |
+|Challenge 2|Easy+     |
+|Challenge 3|Medium-   |
+|Challenge 4|Medium+   |
 
 
 ## Content
