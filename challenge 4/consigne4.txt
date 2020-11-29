@@ -22,6 +22,8 @@ part2   : 1 2 7 43
 part3   : 1 2 4 12
 part4   : 1 2 13 2
 
+# Un element du tableau correspond a la vie qui est perdue sur la case
+
 Sortie:
 
 0 0 0 0 
