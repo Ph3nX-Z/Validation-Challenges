@@ -17,10 +17,10 @@ Entrees:
 vie     : 6
 hauteur : 4
 largeur : 4
-part1   : 1 2 3 4 
-part2   : 1 2 3 4
-part3   : 1 2 3 4
-part4   : 1 2 3 4
+part1   : 1 2 8 15 
+part2   : 1 2 7 43
+part3   : 1 2 4 12
+part4   : 1 2 13 2
 
 Sortie:
 
