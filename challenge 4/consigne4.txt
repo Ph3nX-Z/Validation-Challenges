@@ -1,0 +1,43 @@
+Vous devrez trouver tous les chemins possibles dans un labyrinthe sans perdre toute la vie:
+
+En entrées :
+
+-la vie
+-la hauteur du labyrinthe
+-la largeur du labyrinthe
+-Le labyrinthe en fonction de la hauteur
+
+Consigne:
+-Retourner tous les chemins possibles avec un espace entre chaques caracteres
+
+Exemples :
+
+Entrees:
+
+vie     : 6
+hauteur : 4
+largeur : 4
+part1   : 1 2 3 4 
+part2   : 1 2 3 4
+part3   : 1 2 3 4
+part4   : 1 2 3 4
+
+Sortie:
+
+0 0 0 0 
+0 0 0 1
+0 0 1 1
+0 0 1 0
+0 1 1 0
+0 1 0 0
+0 1 0 1
+1 1 0 0
+1 0 0 0
+1 0 0 1
+1 0 1 0
+
+Contraintes:
+
+- Pas le droit a des methodes qui depassent 500mo de memoire utilisée (toutes les possibilitées etc...)
+- Labyrinthe aux dimensions max de 200x200
+
