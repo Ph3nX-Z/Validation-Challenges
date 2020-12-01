@@ -9,6 +9,7 @@ En entrées :
 
 Consigne:
 -Retourner tous les chemins possibles avec un espace entre chaques caracteres
+-Si il n'y en a pas, retourner IMPOSSBILE
 
 Exemples :
 
@@ -40,6 +41,19 @@ Sortie:
 
 # exemple de 1 1 1 1 : le chemin que pourra prendre la personne sans perdre toute la vie:
 # x=1 y=0, x=1 y=1, x=1 y=2, x=1 y=3
+
+Exemple 2 :
+
+vie     : 2
+hauteur : 3
+largeur : 3
+part 1  : 10 5  3
+part 2  : 2  3  5
+part 3  : 15 12 5
+
+Sortie:
+
+IMPOSSBILE
 
 Contraintes:
 
