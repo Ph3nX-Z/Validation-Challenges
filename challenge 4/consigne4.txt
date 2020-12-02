@@ -59,4 +59,7 @@ Contraintes:
 
 - Pas le droit a des methodes qui depassent 500mo de memoire utilisée (toutes les possibilitées etc...)
 - Labyrinthe aux dimensions max de 200x200
+- La personne ne peut pas progresser dans le labyrinthe en allant sur des cases non voisines : ex :
+* Interdit : 134
+* Autorisé : 123
 
